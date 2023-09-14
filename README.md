@@ -1,5 +1,5 @@
 # Калькулятор расчёта затухания энергетики радиолинии БпЛА - Наземная станция
-![Внешний вид](https://github.com/shakertov/attenuation/blob/main/university/1.png)
+![Внешний вид](https://github.com/shakertov/attenuation/blob/main/1.png)
 
 ## Описание задачи
 
